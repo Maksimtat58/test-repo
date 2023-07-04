@@ -4,4 +4,5 @@ fun main(args: Array<String>) {
     println("Something new in develop")
     println("Hello from feature 2")
     println("Hello from feature 3")
+    println("Hello from feature 3 - 2")
 }
